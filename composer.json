@@ -22,7 +22,7 @@
     "require": {
         "php": ">=5.3.3",
 
-        "twig/twig":        "1.15.*",
+        "twig/twig":        "1.15.* || 3.10.*",
         "wa72/htmlpagedom": "dev-master@dev"
     },
     "require-dev": {
